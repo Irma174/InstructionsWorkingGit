@@ -1,4 +1,5 @@
-[<- к содержанию](./readme.md)
+[<- вернуться в раздел "Создание коммита"](./create_commit.md)
+[<- вернуться в раздел "Конфликты версий"](./version_conflict.md)
 
 ## git commit  -m 'comment'
 
